@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **.NET Core, C#, SQL, Microservice architecture**
 
+- I am currently learning **React.js**
+
 - 📫 How to reach me **syedhassanali880@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
