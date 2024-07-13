@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **.NET 8**
 
-- 💬 Ask me about **.NET Core, C#, SQL, Microservice architecture**
+- 💬 Ask me about **.NET Core, C#, SQL, Microservice architecture and tech related things.**
 
 - I am currently learning **AWS**
 
