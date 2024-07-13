@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/hassanali520" target="blank"><img src="https://img.shields.io/twitter/follow/hassanali520?logo=twitter&style=for-the-badge" alt="hassanali520" /></a> </p>
 
-- 🔭 I’m currently working on **.NET 7**
+- 🔭 I’m currently working on **.NET 8**
 
 - 💬 Ask me about **.NET Core, C#, SQL, Microservice architecture**
 
-- I am currently learning **React.js**
+- I am currently learning **AWS**
 
 - 📫 How to reach me **syedhassanali880@gmail.com**
 
